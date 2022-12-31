@@ -15,7 +15,7 @@ This is just an example application, but imagine it doing anything you want. Add
 ```
 
 ```
-
+For more coding information, read [help.md](help.md)  
 The possibilities are endless.
 
 ### Building the Application
